@@ -27,4 +27,4 @@ tiempo.
 **Diagrama de clases**
 
 
-![Diagrama](https://github.com/Lukas-De-Angelis-Riva/TPs-individuales-Algoritmos-y-programacion-III/blob/master/SimulacroParcial/Class%20Diagram.png)
+![Diagrama](https://github.com/Lukas-De-Angelis-Riva/TPs-individuales-Algoritmos-y-programacion-III/blob/master/SimulacroParcial2/Class%20Diagram0.png)
