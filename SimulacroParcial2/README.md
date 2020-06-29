@@ -5,12 +5,16 @@
 **Transporte Público**
 Para la implementación de un sistema de control de transporte de pasajeros, se establecen las
 siguientes definiciones:
- **Itinerario**: un viaje completo a ser realizado por una persona para llegar de un punto a otro del
+
+**Itinerario**: un viaje completo a ser realizado por una persona para llegar de un punto a otro del
 país; un itinerario puede estar compuesto por uno o más tramos.
- **Tramo**: una parte de un viaje entre dos puntos, que se realiza en un solo medio de transporte.
- **Medios de transporte** : pueden ser colectivo, tren urbano, subte, ómnibus interurbano, tren
+
+**Tramo**: una parte de un viaje entre dos puntos, que se realiza en un solo medio de transporte.
+
+**Medios de transporte** : pueden ser colectivo, tren urbano, subte, ómnibus interurbano, tren
 interurbano. Cada medio tiene un sistema tarifario diferente; algunos cobran un precio fijo, otros
 un valor dependiente de la distancia y otros tienen una tabla de tarifas entre destinos.
+
 ### Se pide:
 • Modelar en UML (diagrama de clases) el problema recién descripto. Tanto en las clases
 Tramo como Itinerario, deben tener en su comportamiento algún método que permita
