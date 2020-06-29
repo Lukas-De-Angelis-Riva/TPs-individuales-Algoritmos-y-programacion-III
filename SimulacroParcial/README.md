@@ -18,4 +18,4 @@ Los diagramas no deben estar 100% completos pero sí deben incluir los detalles 
 Si se traban con algún problema de sintaxis pueden saltearlo y dejar un comentario que empiece con "FIXME" y continuar con el modelo e intentar arreglarlo al final. Es más importante que el modelo esté completo que el perfecto uso de la sintaxis del lenguaje.
 
 **Diagrama de clases**
-![Diagram](/Class Diagram.png)
+![Diagrama](https://github.com/Lukas-De-Angelis-Riva/Solucionador/blob/master/Laberintote.bmp)
