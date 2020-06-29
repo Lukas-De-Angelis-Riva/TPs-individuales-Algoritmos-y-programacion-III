@@ -1,12 +1,12 @@
-##Simulacro Parcial 1
+## Simulacro Parcial 1
 
 **Enunciado de simulacro 1**
 
-####Objetivos
+#### Objetivos
 
 Practicar un ejercicio de modelado de dificultad similar a la del examen parcial de la semana que viene.
 
-####Consigna
+#### Consigna
 
 Descargar los archivos adjuntos, importarlos en Pharo y analizar el código.
 
@@ -19,7 +19,7 @@ Confeccionar un diagrama de clases del modelo final.
 Confeccionar dos diagramas de secuencia de los escenarios de las dos pruebas provistas.
 
 
-####Aclaraciones
+#### Aclaraciones
 El entregable debe ser un archivo comprimido con el paquete de las nuevas pruebas, el del nuevo modelo y las imágenes de los diagramas. No debería ser necesario incluir ningún archivo de texto adicional.
 
 Para todos los casos las pruebas pueden ser modificadas según consideren necesario siempre y cuando se siga respetando la funcionalidad descrita en sus nombres. También pueden (y deberían) agregar todas las pruebas nuevas que su modelo demande.
