@@ -20,4 +20,4 @@ Si se traban con algún problema de sintaxis pueden saltearlo y dejar un comenta
 **Diagrama de clases**
 
 
-![Diagrama](https://github.com/Lukas-De-Angelis-Riva/Solucionador/blob/master/Laberintote.bmp)
+![Diagrama](https://github.com/Lukas-De-Angelis-Riva/TPs-individuales-Algoritmos-y-programacion-III/blob/master/SimulacroParcial/Class%20Diagram.png)
