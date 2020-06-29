@@ -1,8 +1,8 @@
 # Simulacro Parcial 1
 
-## **Enunciado de simulacro 1**
+## **Enunciado de simulacro 2**
 
-### Transporte Público
+**Transporte Público**
 Para la implementación de un sistema de control de transporte de pasajeros, se establecen las
 siguientes definiciones:
  **Itinerario**: un viaje completo a ser realizado por una persona para llegar de un punto a otro del
